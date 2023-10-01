@@ -1,1 +1,2 @@
-echo $BASHPID
+#!/usr/bin/env bash
+bash -c 'echo $PPID'
