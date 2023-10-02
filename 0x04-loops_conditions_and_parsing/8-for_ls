@@ -1,0 +1,5 @@
+sh script that displays The content of the current directory
+
+for x in *;do
+    echo "$x"
+done
